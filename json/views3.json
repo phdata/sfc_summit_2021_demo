@@ -1,0 +1,48 @@
+{
+    "Views": [
+        {
+            "StartProcedure": {
+                "EnterView": "2021-May-06 06:55:33",
+                "ExitView": "2021-May-06 06:58:02",
+                "ctx_ProfileName": "Ricky McRickface"
+            }
+        },
+        {
+            "Configure": {
+                "EnterView": "2021-May-06 06:58:02",
+                "ExitView": "2021-May-06 07:00:44"
+            }
+        },
+        {
+            "LoadImages": {
+                "EnterView": "2021-May-06 07:00:44",
+                "ExitView": "2021-May-06 07:05:14"
+            }
+        },
+        {
+            "Plan": {
+                "EnterView": "2021-May-06 07:05:14",
+                "ExitView": "2021-May-06 07:23:07"
+            }
+        },
+        {
+            "Prepare": {
+                "EnterView": "2021-May-06 07:23:07",
+                "ExitView": "2021-May-06 07:25:30",
+                "Success": false
+            }
+        },
+        {
+            "Navigate": {
+                "EnterView": "2021-May-06 07:25:30",
+                "ExitView": "2021-May-06 08:42:17"
+            }
+        },
+        {
+            "ProcedureDetails": {
+                "StartTime": "2021-May-06 06:55:33",
+                "EndTime": "2021-May-06 08:42:17"
+            }
+        }
+    ]
+}

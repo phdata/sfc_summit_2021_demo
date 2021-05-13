@@ -1,0 +1,124 @@
+{
+    "Views": [
+        {
+            "StartProcedure": {
+                "EnterView": "2021-May-05 06:55:33",
+                "ExitView": "2021-May-05 06:58:02",
+                "ctx_ProfileName": "Nicky McNickface"
+            }
+        },
+        {
+            "Configure": {
+                "EnterView": "2021-May-05 06:58:02",
+                "ExitView": "2021-May-05 07:00:44"
+            }
+        },
+        {
+            "LoadImages": {
+                "EnterView": "2021-May-05 07:00:44",
+                "ExitView": "2021-May-05 07:05:14"
+            }
+        },
+        {
+            "Plan": {
+                "EnterView": "2021-May-05 07:05:14",
+                "ExitView": "2021-May-05 07:23:07"
+            }
+        },
+        {
+            "Prepare": {
+                "EnterView": "2021-May-05 07:23:07",
+                "ExitView": "2021-May-05 07:25:30",
+                "Success": true,
+                "2021-May-05 07:24:22": {
+                    "attempt": 2,
+                    "xDim": -6,
+                    "yDim": 77,
+                    "zDim": 15,
+                    "error": 2.3
+                },
+                "2021-May-05 07:25:27": "confirm"
+            }
+        },
+        {
+            "Plan": {
+                "EnterView": "2021-May-05 07:25:30",
+                "ExitView": "2021-May-05 07:29:33"
+            }
+        },
+        {
+            "Navigate": {
+                "EnterView": "2021-May-05 07:29:33",
+                "ExitView": "2021-May-05 08:42:17"
+            }
+        },
+        {
+            "ProcedureDetails": {
+                "StartTime": "2021-May-05 06:55:33",
+                "EndTime": "2021-May-05 08:42:17"
+            }
+        },
+        {
+            "StartProcedure": {
+                "EnterView": "2021-May-05 08:50:31",
+                "ExitView": "2021-May-05 08:51:02",
+                "ctx_ProfileName": "TEST_PROFILE",
+                "ctx_Demo": true
+            }
+        },
+        {
+            "Configure": {
+                "EnterView": "2021-May-05 08:51:02",
+                "ExitView": "2021-May-05 08:53:14"
+            }
+        },
+        {
+            "CaptureImages": {
+                "EnterView": "2021-May-05 08:53:14",
+                "ExitView": "2021-May-05 08:59:55"
+            }
+        },
+        {
+            "Prepare": {
+                "EnterView": "2021-May-05 08:59:55",
+                "ExitView": "2021-May-05 09:17:32",
+                "Success": false,
+                "2021-May-05 09:00:11": {
+                    "attempt": 1,
+                    "xDim": 0,
+                    "yDim": 2,
+                    "zDim": 3,
+                    "error": 1.2
+                },
+                "2021-May-05 09:02:31": {
+                    "attempt": 2,
+                    "xDim": 1,
+                    "yDim": 24,
+                    "zDim": 4,
+                    "error": 1.2
+                },
+                "2021-May-05 09:06:55": {
+                    "attempt": 3,
+                    "xDim": 5,
+                    "yDim": 3,
+                    "zDim": 3,
+                    "error": 1.2
+                },
+                "2021-May-05 09:15:02": {
+                    "attempt": 4,
+                    "xDim": 0,
+                    "yDim": 2,
+                    "zDim": 4,
+                    "error": 1.2
+                },
+                "2021-May-05 09:17:11": "abort"
+            }
+        },
+        {
+            "ProcedureDetails": {
+                "StartTime": "2021-May-05 08:50:31",
+                "EndTime": "2021-May-05 09:17:32"
+            }
+        }
+    ]
+}
